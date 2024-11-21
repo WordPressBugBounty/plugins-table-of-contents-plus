@@ -7,7 +7,7 @@
  * Author URI:  https://aioseo.com
  * Text Domain: table-of-contents-plus
  * Domain Path: /languages
- * Version:     2411
+ * Version:     2411.1
  * License:     GPL2
  */
 

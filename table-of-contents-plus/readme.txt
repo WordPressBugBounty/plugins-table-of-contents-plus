@@ -3,7 +3,7 @@ Contributors: aioseo, smub, benjaminprojas
 Tags: table of contents, indexes, toc, sitemap, cms
 Requires at least: 3.2
 Tested up to: 6.7
-Stable tag: 2411
+Stable tag: 2411.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -102,6 +102,10 @@ This plugin was created and maintained for many years by conjur3r. We are gratef
 
 
 == Changelog ==
+= 2411.1 =
+* Released: 21 November 2024
+* Security hardening reported by WPScan
+
 = 2411 =
 * Released: 14 November 2024
 * Security hardening reported by Patchstack
